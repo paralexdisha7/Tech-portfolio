@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import { Link, link } from "react-scroll";
+import { Link } from "react-scroll";
 import Social from "./Social";
 
 const Navbar = () => {

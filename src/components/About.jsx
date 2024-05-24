@@ -10,6 +10,9 @@ import Projects from "./Projects";
 import Skills from "./Skills";
 import Certificates from "./Certificates";
 import Contact from "./Contact";
+import { Link } from "react-scroll";
+
+
 
 const About = () => {
   return (
@@ -50,9 +53,9 @@ const About = () => {
           </p>
 
           <div className="flex gap-16 justify-center relative z-50 ">
-            <button className="flex gap-2 text-teal-950 bg-white font-semibold p-3 px-4 rounded-full hover:scale-90 duration-200 text-sm md:text-lg">
+            <Link to="contact me" smooth duration={500} className="flex gap-2 text-teal-950 bg-white font-semibold p-3 px-4 rounded-full hover:scale-90 duration-200 text-sm md:text-lg">
               Contact Me <IoMdContacts size={20} />
-            </button>
+            </Link>
             <a href="/Resume.pdf" download={true}>
               {" "}
               <button className="flex gap-2  text-teal-950 bg-white font-semibold p-3 px-4 rounded-full hover:scale-90 duration-200 text-sm md:text-lg">
