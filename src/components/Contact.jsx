@@ -22,7 +22,7 @@ const Contact = () => {
 
 
       </form>
-      <p className="relative top-72 font-thin">Designed by Disha Parale</p>
+      <p className="pt-44 font-thin bg-cyan-950">Designed by Disha Parale</p>
 
 
 

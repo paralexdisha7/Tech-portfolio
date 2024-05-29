@@ -38,7 +38,7 @@ const Extracuricular = () => {
         </h2>
 
         <div className=" px-10 ">
-          <ul className="flex flex-col gap-8 justify-center items-start md:ml-[600px]">
+          <ul className="flex flex-col gap-8 justify-center items-start md:ml-[400px] ">
             {volunteer.map(({id,eventName,year})=>(
                <li key={id} >
                <p className="font-light text-xl md:text-2xl">
