@@ -20,6 +20,12 @@ const Certificates = () => {
             course:"Android Developer Virtual internship by EduSkills",
             year:2024
         },
+        {
+            id:4,
+            cname:'uiuxCertificate',
+            course:"Complete Web & Mobile Designer: UI/UX, Figma, +more by Udemy",
+            year:2024
+        },
      
     ]
   return (

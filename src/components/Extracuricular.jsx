@@ -57,7 +57,7 @@ const Extracuricular = () => {
         name="other"
         className=" w-full bg-cyan-950 text-white font-normal relative z-0 py-24 "
       >
-        <h2 className="text-center font-logo text-3xl py-4 underline underline-offset-8 decoration-1 decoration-slate-400 mb-10">
+        <h2 className="text-center font-logo text-3xl py-4 underline underline-offset-8 decoration-1 decoration-slate-400 mb-10 pt-20">
           Other{" "}
         </h2>
 
