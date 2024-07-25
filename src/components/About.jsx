@@ -56,7 +56,7 @@ const About = () => {
             <Link to="contact me" smooth duration={500} className="flex gap-2 text-teal-950 bg-white font-semibold p-3 px-4 rounded-full hover:scale-90 duration-200 text-sm md:text-lg">
               Contact Me <IoMdContacts size={20} />
             </Link>
-            <a href="/Resume.pdf" download={true}>
+            <a href="/DishaResume7_24.pdf" download={true}>
               {" "}
               <button className="flex gap-2  text-teal-950 bg-white font-semibold p-3 px-4 rounded-full hover:scale-90 duration-200 text-sm md:text-lg">
                 Resume <FaArrowDown size={20} />
