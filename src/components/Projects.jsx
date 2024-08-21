@@ -87,6 +87,21 @@ const Projects = () => {
       year: "2024",
       href: "https://sentiment-analysis-ml-project.onrender.com/",
     },
+    {
+      id: 14,
+      pname: "Password Generator",
+      stack: "React Native",
+      year: "2024",
+      href: "https://github.com/paralexdisha7/password-gen-rn",
+    },
+    {
+      id: 15,
+      pname: "Social Media App - Link Up",
+      stack: "React Native, Expo Router, Supabase",
+      year: "2024",
+      href: "https://github.com/paralexdisha7/social-media-app-rn",
+    },
+    
   ];
 
   return (
