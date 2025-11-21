@@ -2,18 +2,18 @@ import React from "react";
 
 const Skills = () => {
   const skills = [
-    {
-      id: 1,
-      sname: "c",
-    },
+    // {
+    //   id: 1,
+    //   sname: "c",
+    // },
     {
       id: 2,
       sname: "cpp",
     },
-    {
-      id: 3,
-      sname: "java",
-    },
+    // {
+    //   id: 3,
+    //   sname: "java",
+    // },
     {
       id: 4,
       sname: "html",
@@ -34,10 +34,10 @@ const Skills = () => {
       id: 8,
       sname: "mysql",
     },
-    {
-      id: 9,
-      sname: "mongo",
-    },
+    // {
+    //   id: 9,
+    //   sname: "mongo",
+    // },
     {
       id: 10,
       sname: "canva",
@@ -54,26 +54,26 @@ const Skills = () => {
       id: 13,
       sname: "github",
     },
-    {
-      id: 14,
-      sname: "node",
-    },
-    {
-      id: 15,
-      sname: "php",
-    },
-    {
-      id: 16,
-      sname: "postman",
-    },
+    // {
+    //   id: 14,
+    //   sname: "node",
+    // },
+    // {
+    //   id: 15,
+    //   sname: "php",
+    // },
+    // {
+    //   id: 16,
+    //   sname: "postman",
+    // },
     {
       id: 17,
       sname: "py",
     },
-    {
-      id: 18,
-      sname: "r",
-    },
+    // {
+    //   id: 18,
+    //   sname: "r",
+    // },
     
   ];
   return (
